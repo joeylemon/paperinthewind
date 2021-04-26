@@ -83,6 +83,7 @@ QualitySettings:
     excludedTargetPlatforms:
     - WebGL
     - Standalone
+    - iPhone
   - serializedVersion: 2
     name: Medium
     pixelLightCount: 1
@@ -121,7 +122,6 @@ QualitySettings:
     excludedTargetPlatforms:
     - WebGL
     - Standalone
-    - iPhone
   - serializedVersion: 2
     name: High
     pixelLightCount: 2
