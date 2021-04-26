@@ -8,7 +8,7 @@
 You're a piece of paper, flying through different environments and avoiding obstacles along the way. 
 The goal of the game is to make it as far as possible in the level without dying—you will earn points for every meter travelled.
 
-The main marketed platform will be mobile phones running iOS and Android operating systems. The game may also be available on web browsers and desktop computers. 
+The main platform will be mobile phones running iOS and Android operating systems. The game may also be available on web browsers and desktop computers. 
 
 ## Features
 
