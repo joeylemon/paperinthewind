@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro;
 
 public class MenuController : MonoBehaviour
 {
@@ -28,8 +27,8 @@ public class MenuController : MonoBehaviour
 
     public Image LogoImage;
 
-    public TextMeshProUGUI CollisionResultText;
-    public TextMeshProUGUI ScoreResultText;
+    public Text CollisionResultText;
+    public Text ScoreResultText;
 
     public void ShowDeathScreen(int score)
     {

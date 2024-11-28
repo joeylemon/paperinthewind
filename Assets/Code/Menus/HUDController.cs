@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro;
 
 public class HUDController : MonoBehaviour
 {
@@ -22,7 +21,7 @@ public class HUDController : MonoBehaviour
         this.InitializeSingleton();
     }
 
-    public TextMeshProUGUI WaitIndicator;
+    public Text WaitIndicator;
 
     public void SetWaitIndicator(string text)
     {
